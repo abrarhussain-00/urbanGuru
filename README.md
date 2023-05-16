@@ -44,6 +44,5 @@ If you'd like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License.
 
 ## Demo
-https://github.com/abrarhussain-00/urbanGuru/assets/117599985/6cc82e2c-5704-4c07-a5f5-8a8941eae2c7
 
 
